@@ -1,8 +1,8 @@
 # Parkinson-s_Sentinel
-
+![Project Logo](images/logo.png)
 
 This repository contains a machine-learning model for predicting Parkinson's disease using an SVM classifier and a Streamlit web app to interact with the model.
-## Project Structure:
+## Project Structure
 
 - `model/`
   - `trained_model1.sav`: Trained SVM model for Parkinson's disease prediction
