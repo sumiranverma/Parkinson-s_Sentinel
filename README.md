@@ -15,16 +15,12 @@ This repository contains a machine-learning model for predicting Parkinson's dis
 - Run the Streamlit app locally using `streamlit run app/app.py`.
 ![How to Run](images/Capture417.PNG)
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="images/Capture417.PNG" width="200" />
-    <div style="width: 100px;"></div> <!-- Add space between the images -->
-    <img src="images/Capture413.PNG" width="200" />
-</div>
-
 ![main ss](images/Capture413.PNG)
 
 ## Adding Input Values 
-- Input the required parameters 
+
+- Input the required parameters
+
 ![input values](images/Capture413.PNG)
 - The WebApp displays the message after clicking the `Predict Parkinson's` button.
 
