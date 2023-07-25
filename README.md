@@ -13,6 +13,16 @@ This repository contains a machine-learning model for predicting Parkinson's dis
 
 - Load the SVM model using `joblib` or a similar library in Python.
 - Run the Streamlit app locally using `streamlit run app/app.py`.
+![How to Run](images/Capture417.PNG)
+![main ss](images/Capture413.PNG)
+
+## Adding Input Values 
+- Input the required parameters 
+![input values](images/Capture413.PNG)
+- The WebApp displays the message after clicking the `Predict Parkinson's` button.
+
+![final message](images/Capture416.PNG)
+
 ## Dependencies
 
 To run the Streamlit app, you need the following dependencies:
