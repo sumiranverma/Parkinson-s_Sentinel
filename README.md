@@ -17,7 +17,7 @@ This repository contains a machine-learning model for predicting Parkinson's dis
 
 <div style="display: flex; justify-content: space-between;">
     <img src="images/Capture417.PNG" width="200" />
-    <div style="width: 20px;"></div> <!-- Add space between the images -->
+    <div style="width: 100px;"></div> <!-- Add space between the images -->
     <img src="images/Capture413.PNG" width="200" />
 </div>
 
